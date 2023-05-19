@@ -5,7 +5,7 @@
     <img src="https://i.imgur.com/K5P22VM.gif" width="350" height="350" alt="https://github.com/KillovSky"/>
 </p>
 <h2 align="center">
-	<img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/>
+	<img src="https://t.me/c/1876738532/937" width="50"/>
 	Sou um desenvolvedor brasileiro com foco em projetos de código aberto.
 </h2>
 
