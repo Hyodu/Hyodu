@@ -12,7 +12,7 @@
 # ✏️ About me :
 
 - Nama : Saad | Hero <a href="https://github.com/Hero351">
-        <img alt="Verify" src="https://media.tenor.com/icpEX27FtVEAAAAj/raf-ik.gif" left="25" width="30" />
+        <img alt="Verify" src="https://media.tenor.com/icpEX27FtVEAAAAj/raf-ik.gif" left="20" width="30" />
     </a>.
 - Age : 14 years old <a href="https://github.com/Hero351">
         <img alt="cute" src="https://media.tenor.com/6jSbSM5gpP8AAAAj/anime-drama.gif" left="25" width="25" />.
