@@ -9,30 +9,15 @@
 	I'm a morocain Developer I focus in boobes.
 </h2>
 
-# ✏️ Coisas que utilizo 📜
+# ✏️ About me :
 
-- Isso inclui minhas experiencias com softwares também.
-- Nenhum suporte de sistemas meus será feito por meio de redes sociais privadas.
-- Responderei mais rápido no WhatsApp, Telegram, Github e Discord, no resto pode levar dias ou bem mais.
-- Para mais informações, basta clicar no ícone.
+- Nama : Saad .
+- Age : 14 years old .
+- Nationality : Morocain .
+- I am Muslim .
 
-## 🤖 A.I
 
-<p>
-    <a href="https://cloud.google.com/dialogflow">
-        <img alt="Google Dialogflow" src="https://img.shields.io/badge/Dialogflow-FF9800?logo=dialogflow&logoColor=white&style=for-the-badge"/>
-    </a>
-</p>
-
-## ⚡ Databases
-
-<p>
-    <a href="https://www.sqlite.org/index.html">
-        <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge"/>
-    </a>
-</p>
-
-## 📚 Educação
+## 📚 education :
 
 <p>
     <a href="https://pt.duolingo.com/profile/KillovSky">
@@ -462,14 +447,6 @@
         <img alt="Github Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
     </a>
 </p>
-
-## 🏆 Troféus
-
-<img src="https://github-profile-trophy.vercel.app/?username=killovsky" alt="KillovSky" />
-
-## 📈 Status
-
-<img alt="KillovSky Stats" src="https://github-readme-stats.vercel.app/api?username=KillovSky&theme=github_dark&show_icons=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&count_private=true"/>
 
 ## 📚 Programação
 
