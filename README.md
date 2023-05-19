@@ -1,6 +1,6 @@
 # Readme.md
 
-<h1 align="center"> <img src="https://media.tenor.com/Ex1pkci_-v8AAAAj/white-cute-cat-hearts.gif" width="50"こんにちは<img src="https://media.tenor.com/Ex1pkci_-v8AAAAj/white-cute-cat-hearts.gif" width="50"</h1>
+<h1 align="center"> <img src="https://media.tenor.com/Ex1pkci_-v8AAAAj/white-cute-cat-hearts.gif" width="50"<p>こんにちは</p><img src="https://media.tenor.com/Ex1pkci_-v8AAAAj/white-cute-cat-hearts.gif" width="50"</h1>
 <p align="center">
     <img src="https://i.imgur.com/K5P22VM.gif" width="350" height="350" alt="https://github.com/KillovSky"/>
 </p>
