@@ -12,7 +12,7 @@
 # ✏️ About me :
 
 - Nama : Saad <a href="https://github.com/Hero351">
-        <img alt="Verify" src="https://media.tenor.com/icpEX27FtVEAAAAj/raf-ik.gif"/>
+        <img alt="Verify" src="https://media.tenor.com/icpEX27FtVEAAAAj/raf-ik.gif"width="50"/>
     </a>.
 - Age : 14 years old .
 - Nationality : Morocain .
