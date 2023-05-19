@@ -16,8 +16,10 @@
     </a>.
 - Age : 14 years old <a href="https://github.com/Hero351">
         <img alt="cute" src="https://media.tenor.com/6jSbSM5gpP8AAAAj/anime-drama.gif" left="25" width="30" />.
-- Nationality : Morocain .
-- I am Muslim .
+- Nationality : Morocain <a href="https://github.com/Hero351">
+        <img alt="Morocco" src="https://media.tenor.com/xmHx_wPpV8AAAAAj/mpm-moroccan-flags.gif" left="25" width="30" />.
+- I am Muslim <a href="https://github.com/Hero351">
+        <img alt="Verify" src="https://media.tenor.com/1SyOeNSeXNMAAAAj/fortnite-muslim.gif" left="25" width="30" />.
 
 
 ## 👨 Social
