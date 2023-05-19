@@ -147,46 +147,7 @@
     </a>
 </p>
 
-## 🧐 Linters
-
-<p>
-    <a href="https://eslint.org">
-        <img alt="ES Lint" src="https://img.shields.io/badge/ES%20Lint-3A33D1?logo=eslint&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://jshint.com">
-        <img alt="JS Hint" src="https://img.shields.io/badge/-JS%20Hint-red?style=for-the-badge"/>
-    </a>
-    <a href="https://www.jslint.com">
-        <img alt="JS Lint" src="https://img.shields.io/badge/-JS%20Lint-orange?style=for-the-badge"/>
-    </a>
-</p>
-
-## 🛒 Lojas
-
-<p>
-    <a href="https://f-droid.org">
-        <img alt="Fdroid" src="https://img.shields.io/badge/F%20Droid-1976D2?logo=f-droid&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://play.google.com">
-        <img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white&style=for-the-badge"/>
-    </a>
-</p>
-
-## 🎶 Música
-
-<p>
-    <a href="https://pt.deezercommunity.com/members/killovsky-196649">
-        <img alt="Deezer" src="https://img.shields.io/badge/Deezer-FEAA2D?logo=deezer&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://open.spotify.com/user/31er3p5kjocagaakgnadnuzqe4va">
-        <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&logo=spotify&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://youtube.com/@KillovSky">
-        <img alt="YouTube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white&style=for-the-badge"/>
-    </a>
-</p>
-
-## 🌐 Navegadores
+## 🌐 Browsers :
 
 <p>
     <a href="https://www.bromite.org">
@@ -209,7 +170,7 @@
     </a>
 </p>
 
-## ☁ Nuvem
+## ☁ Platforms :
 
 <p>
     <a href="https://www.heroku.com">
@@ -220,7 +181,7 @@
     </a>
 </p>
 
-## 👨‍💻 Office
+## 👨‍💻 Office :
 
 <p>
     <a href="https://www.google.com/sheets/about">
@@ -243,7 +204,7 @@
     </a>
 </p>
 
-## 📱 OS
+## 📱 OS :
 
 <p>
     <a href="https://www.alpinelinux.org">
