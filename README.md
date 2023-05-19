@@ -17,6 +17,38 @@
 - I am Muslim .
 
 
+## 👨 Social
+
+<p>
+    <a href="https://github.com/Hero351">
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/>
+    </a> 
+    <a href="https://instagram.com/nm9h?igshid=NTc4MTIwNjQ2YQ==">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://wa.me/212609395104">
+        <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://t.me/endfu">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="mailto:v.i3@aol.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+</p>
+
+## 👥 Grups :
+
+<p>
+    <a href="https://chat.whatsapp.com/EFatuIRz1Lg2PJ9U2tAAnZ">
+        <img alt="Arena Dev" src="https://img.shields.io/badge/WhatsApp%20LZ-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://chat.whatsapp.com/GZmtKYAoohfCeAa4En1KJ8">
+        <img alt="Grupo Bot chat" src="https://img.shields.io/badge/WhatsApp%20DEV-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://t.me/Y66I6">
+        <img alt="OFC Channel" src="https://img.shields.io/badge/Projeto%20Íris%20TG-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
+    </a>
+
 ## 📚 education :
 
 <p>
@@ -34,6 +66,33 @@
     </a>
     <a href="https://developer.mozilla.org/pt-BR">
         <img alt="MDN Web Docs" src="https://img.shields.io/badge/MDN_Web_Docs-black?logo=mdnwebdocs&logoColor=white&style=for-the-badge"/>
+    </a>
+</p>
+
+## 🇫🇮 Languages :
+
+<p>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+        <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+        <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
+    </a>
+    <a href="https://www.json.org">
+        <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C?logo=json&logoColor=white&style=for-the-badge"/>
+    </a>
+    <a href="https://www.python.org">
+        <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge"/>
+    </a>
+    <a href="https://www.typescriptlang.org">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
     </a>
 </p>
 
@@ -78,19 +137,6 @@
     </a>
 </p>
 
-## 👥 Grups :
-
-<p>
-    <a href="https://chat.whatsapp.com/EFatuIRz1Lg2PJ9U2tAAnZ">
-        <img alt="Arena Dev" src="https://img.shields.io/badge/WhatsApp%20LZ-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://chat.whatsapp.com/GZmtKYAoohfCeAa4En1KJ8">
-        <img alt="Grupo Bot chat" src="https://img.shields.io/badge/WhatsApp%20DEV-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://t.me/Y66I6">
-        <img alt="OFC Channel" src="https://img.shields.io/badge/Projeto%20Íris%20TG-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
-    </a>
- 
 ## 👩‍💻 Idea & Tools :
 
 <p>
@@ -120,32 +166,7 @@
     </a>
 </p>
 
-## 🇫🇮 Languages :
 
-<p>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-        <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-        <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge"/>
-    </a>
-    <a href="https://www.json.org">
-        <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C?logo=json&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://www.python.org">
-        <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge"/>
-    </a>
-    <a href="https://www.typescriptlang.org">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
-    </a>
-</p>
 
 ## 🌐 Browsers :
 
@@ -254,24 +275,6 @@
     </a>
 </p>
 
-## 👨 Social
-
-<p>
-    <a href="https://github.com/Hero351">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/>
-    </a> 
-    <a href="https://instagram.com/nm9h?igshid=NTc4MTIwNjQ2YQ==">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://wa.me/212609395104">
-        <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://t.me/endfu">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="mailto:v.i3@aol.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-</p>
 
 ## ⌨️ Terminal :
 
