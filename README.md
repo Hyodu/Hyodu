@@ -78,35 +78,20 @@
     </a>
 </p>
 
-## 🎮 Games
+## 👥 Grups :
 
 <p>
-    <a href="https://steamcommunity.com/id/KillovSky">
-        <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+    <a href="https://chat.whatsapp.com/EFatuIRz1Lg2PJ9U2tAAnZ">
+        <img alt="Arena Dev" src="https://img.shields.io/badge/WhatsApp%20LZ-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
     </a>
-</p>
-
-## 👥 Grupos
-
-<p>
-    <a href="https://chat.whatsapp.com/Ji5JLEVkL0MGRReVvDoubL">
-        <img alt="Legião Z" src="https://img.shields.io/badge/WhatsApp%20LZ-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+    <a href="https://chat.whatsapp.com/GZmtKYAoohfCeAa4En1KJ8">
+        <img alt="Grupo Bot chat" src="https://img.shields.io/badge/WhatsApp%20DEV-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://chat.whatsapp.com/HNNHhyWyXFgHAdOsPHrOWD">
-        <img alt="Grupo DEV/Recepção" src="https://img.shields.io/badge/WhatsApp%20DEV-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+    <a href="https://t.me/Y66I6">
+        <img alt="OFC Channel" src="https://img.shields.io/badge/Projeto%20Íris%20TG-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://t.me/PROJETOIRIS">
-        <img alt="Projeto Íris - Telegram" src="https://img.shields.io/badge/Projeto%20Íris%20TG-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://discord.gg/ZtN9UH7XZu">
-        <img alt="Projeto Íris - Discord" src="https://img.shields.io/badge/Projeto%20Íris%20DC-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://pastebin.com/raw/dZfYdGaf">
-        <img alt="Pastebin" src="https://img.shields.io/badge/Pastebin-000000?logo=pastebin&logoColor=white&style=for-the-badge"/>
-    </a>
-</p>
-
-## 👩‍💻 IDEs & Tools
+ 
+## 👩‍💻 Idea & Tools :
 
 <p>
     <a href="https://www.eclipse.org/downloads">
@@ -135,15 +120,12 @@
     </a>
 </p>
 
-## 🇧🇷 Linguagens
+## 🇫🇮 Languages :
 
 <p>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
         <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
         <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge"/>
-    </a>
-    <a href="https://go.dev">
-        <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
         <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
@@ -156,9 +138,6 @@
     </a>
     <a href="https://www.json.org">
         <img alt="JSON" src="https://img.shields.io/badge/JSON-5E5C5C?logo=json&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://pptr.dev">
-        <img alt="Puppeteer" src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=Puppeteer&logoColor=white&style=for-the-badge"/>
     </a>
     <a href="https://www.python.org">
         <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue&style=for-the-badge"/>
