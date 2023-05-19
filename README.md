@@ -5,7 +5,7 @@
     <img src="https://i.gifer.com/T9aF.gif" width="400" height="200" alt="https://github.com/Hero351"/>
 </p>
 <h2 align="center">
-	<img src="https://media.tenor.com/TcrzssE_SwMAAAAi/anime-waifu.gif" width="50"/>
+	<img src="https://telegra.ph/file/06d1e40c3455751f88e1e.gif" width="50"/>
 	I'm a morocain Developer I focus in boobes.
 </h2>
 
