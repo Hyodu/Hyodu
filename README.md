@@ -1,6 +1,6 @@
 # Readme.md
 
-<h1 align="center">こんにちは</h1>
+<h1 align="center">こんにちは  <img src="https://media.tenor.com/4nDobwR3OMcAAAAj/official.gif" width="50"</h1>
 <p align="center">
     <img src="https://i.imgur.com/K5P22VM.gif" width="350" height="350" alt="https://github.com/KillovSky"/>
 </p>
