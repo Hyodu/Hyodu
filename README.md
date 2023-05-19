@@ -257,68 +257,23 @@
 ## 👨 Social
 
 <p>
-    <a href="https://codepen.io/killovsky">
-        <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://www.deviantart.com/killuaplayer">
-        <img alt="Devian Art" src="https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://github.com/KillovSky">
+    <a href="https://github.com/Hero351">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://gitlab.com/KillovSky">
-        <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://www.pinterest.com/KillovSky">
-        <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&logo=Pinterest&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://www.reddit.com/user/KillovSkye">
-        <img alt="Reedit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://forum.xda-developers.com/m/killovsky.10104657">
-        <img alt="XDA Developers" src="https://img.shields.io/badge/XDA%20Developers-2DAAE9?logo=xda-developers&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://twitter.com/lucasr_kill">
-        <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://linkedin.com/in/killovsky">
-        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://instagram.com/lr_killovsky">
+    </a> 
+    <a href="https://instagram.com/nm9h?igshid=NTc4MTIwNjQ2YQ==">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://wa.me/5518998044132">
+    <a href="https://wa.me/212609395104">
         <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://youtube.com/@KillovSky">
-        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://t.me/killovskye">
+    <a href="https://t.me/endfu">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="mailto:lucas2011bds@gmail.com">
+    <a href="mailto:v.i3@aol.com">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="mailto:lucas2011bds@hotmail.com">
-        <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"/>
-    </a>
 </p>
 
-## 🎞 Streaming
-
-<p>
-    <a href="https://www.crunchyroll.com/pt-br/user/KillovSky">
-        <img alt="Crunchyroll" src="https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://www.twitch.tv/killovskye">
-        <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="https://youtube.com/@KillovSky">
-        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"/>
-    </a>
-</p>
-
-## ⌨️ Terminal
+## ⌨️ Terminal :
 
 <p>
     <a href="https://git-scm.com/downloads">
@@ -344,7 +299,7 @@
     </a>
 </p>
 
-## 💻 Virtualização
+## 💻 Lulzsec virtual :
 
 <p>
     <a href="https://www.virtualbox.org">
@@ -355,39 +310,4 @@
     </a>
 </p>
 
-## 🪙 Fundings
 
-<p>
-    <a href="https://pastebin.com/raw/e6Jn3p74">
-        <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?logo=bitcoin&logoColor=white&style=for-the-badge"/>
-        <img alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?logo=binance&logoColor=white&style=for-the-badge"/>
-        <img alt="Doge" src="https://img.shields.io/badge/Dogecoin-C2A633?logo=dogecoin&logoColor=white&style=for-the-badge"/>
-        <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=Ethereum&logoColor=white&style=for-the-badge"/>
-        <img alt="Monero" src="https://img.shields.io/badge/Monero-FF6600?logo=monero&logoColor=white&style=for-the-badge"/>
-        <img alt="Polkadot" src="https://img.shields.io/badge/Polkadot-E6007A?logo=polkadot&logoColor=000&style=for-the-badge"/>
-        <img alt="Tether" src="https://img.shields.io/badge/Tether-168363?logo=tether&logoColor=white&style=for-the-badge"/>
-        <img alt="BUSD" src="https://img.shields.io/badge/BUSD-000?logo=ethereum&logoColor=green&style=for-the-badge"/>
-        <img alt="BNB" src="https://img.shields.io/badge/BNB-F3BA2F?logo=ethereum&logoColor=000&style=for-the-badge"/>
-        <img alt="Cardano" src="https://img.shields.io/badge/ADA-2a71d0?logo=ethereum&logoColor=fff&style=for-the-badge"/>
-        <img alt="Ripple" src="https://img.shields.io/badge/XRP-black?logo=xrp&logoColor=white&style=for-the-badge"/>
-        <img alt="Chiliz" src="https://img.shields.io/badge/Chiliz-CA0124?logo=ethereum&logoColor=fff&style=for-the-badge"/>
-        <img alt="Solana" src="https://img.shields.io/badge/Solana-03E1FF?logo=ethereum&logoColor=00FFA3&style=for-the-badge"/>
-        <img alt="Shiba INU" src="https://img.shields.io/badge/Shiba%20INU-C2A633?logo=dogecoin&logoColor=white&style=for-the-badge"/>
-    </a>
-    <a href="http://ko-fi.com/killovsky">
-        <img alt="KO-FI" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-    </a>
-    <a href="https://bit.ly/33QDaGa">
-        <img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
-    </a>
-    <a href="https://picpay.me/userlucas123">
-        <img alt="Picpay" src="https://img.shields.io/badge/picpay-21C25E?style=for-the-badge&logo=picpay&logoColor=white"/>
-    </a>
-    <a href="http://ko-fi.com/killovsky">
-        <img alt="Github Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
-    </a>
-</p>
-
-## 📚 Programação
-
-<img alt="KillovSky Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KillovSky&layout=compact&theme=github_dark&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
