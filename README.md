@@ -2,23 +2,12 @@
 
 <h1> <img src="https://media.tenor.com/Ex1pkci_-v8AAAAj/white-cute-cat-hearts.gif" width="50"<p>こんにちは <img src="https://media.tenor.com/Ex1pkci_-v8AAAAj/white-cute-cat-hearts.gif" width="50"</p></h1>
 <p align="center">
-    <img src="https://i.imgur.com/K5P22VM.gif" width="350" height="350" alt="https://github.com/KillovSky"/>
+    <img src="https://i.imgur.com/K5P22VM.gif" width="350" height="350" alt="https://github.com/Hero351"/>
 </p>
 <h2 align="center">
-	<img src="https://t.me/c/1876738532/937" width="50"/>
-	Sou um desenvolvedor brasileiro com foco em projetos de código aberto.
+	<img src="https://media.tenor.com/TcrzssE_SwMAAAAi/anime-waifu.gif" width="50"/>
+	I'm a morocain Developer I focus in boobes.
 </h2>
-
-# 📛 Profile Badges
-
-<p>
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKillovSky%2FKillovSky&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views"/>
-    </a>
-    <a href="https://ko-fi.com/killovsky">
-        <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/KillovSky"/>
-    </a>
-</p>
 
 # ✏️ Coisas que utilizo 📜
 
