@@ -34,7 +34,7 @@
     <a href="https://wa.me/212609395104">
         <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://t.me/endfu">
+    <a href="https://t.me/xeFuu">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
     </a>
     <a href="mailto:v.i3@aol.com">
@@ -44,13 +44,13 @@
 ## 👥 Grups :
 
 <p>
-    <a href="https://chat.whatsapp.com/EFatuIRz1Lg2PJ9U2tAAnZ">
+    <a href="https://chat.whatsapp.com/IV8ZgKwIOguFVqyWQKCyi1">
         <img alt="Arena Dev" src="https://img.shields.io/badge/WhatsApp%20LZ-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://chat.whatsapp.com/GZmtKYAoohfCeAa4En1KJ8">
-        <img alt="Grupo Bot chat" src="https://img.shields.io/badge/WhatsApp%20DEV-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+    <a href="https://chat.whatsapp.com/ITgveXW1wKg1q3km2P6x9P">
+        <img alt="Arena chat" src="https://img.shields.io/badge/WhatsApp%20DEV-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://t.me/Y66I6">
+    <a href="https://t.me/xeFuu">
         <img alt="OFC Channel" src="https://img.shields.io/badge/Projeto%20Íris%20TG-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"/>
     </a>
 
