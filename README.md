@@ -1,8 +1,26 @@
 <h1> <img src="https://media.tenor.com/Ex1pkci_-v8AAAAj/white-cute-cat-hearts.gif" width="50"<p>こんにちは <img src="https://media.tenor.com/Ex1pkci_-v8AAAAj/white-cute-cat-hearts.gif" width="50"</p></h1>
 <p align="center">
-    <img src="https://c.tenor.com/lAslUYOn0dsAAAAd/tenor.gif" width="600" height="400" alt="https://github.com/Hero351"/>
+    <img src="https://telegra.ph/file/8219cb8e2fed6e3eae767.gif" width="500" height="200" alt="https://github.com/Hero351"/>
 </p>
 <h2 align="center">
 	<img src="https://media.tenor.com/QVjbWBHGP5IAAAAj/anime-ty.gif" width="50"/>
 	I'm a morocain Developer I focus in Manar.
 </h2>
+
+## 🪽 - Mastering :
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=Yellow)
+
+## 🍟 - learning :
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
