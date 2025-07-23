@@ -1,3 +1,6 @@
+### My STATS
+
+<!--
 <h1> Hellooooo <img src="https://media.tenor.com/4PXxgZON9NwAAAAi/cats-miskey-the-peacemaker.gif" width=50 </h1>
 <p align="center">
     <img src="https://telegra.ph/file/8219cb8e2fed6e3eae767.gif" width="500" height="280" alt="https://github.com/Hero351"/>
@@ -31,3 +34,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasselhaoussi&theme=default)
