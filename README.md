@@ -40,5 +40,5 @@
 
 
 ```bash
-To kmow more u can visit my portfolio : https://saad.is-a.dev/
+To know more u can visit my portfolio : https://saad.is-a.dev/
 ```
