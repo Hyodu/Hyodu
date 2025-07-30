@@ -36,8 +36,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyodu&theme=default)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyodu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyodu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ```bash
 To know more u can visit my portfolio :
